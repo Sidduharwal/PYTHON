@@ -1,4 +1,4 @@
-# Write an python program to find an average of two numbers ended by the user ?
+# =====>Write an python program to find an average of two numbers ended by the user ?<========
 
 a= int(input ("Enter number 1: "))
 
